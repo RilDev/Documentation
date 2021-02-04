@@ -289,7 +289,7 @@ With components being self-contained, you can share it using just two files: a J
 
 ### The problems it created
 
-This change has brought some confusion to people who expect all the HTML to be there for them to edit. It now results confusing where the code is coming from and how to update it which has caused monogatari not to be as beginner friendly as it used to be. However, I strongly believe these problems are the result of the lack of proper documentation. Components are in fact simple to use and work with, it just needs a mind shift and a proper explanation.
+This change has brought some confusion to people who expect all the HTML to be there for them to edit. It's now harder to know where the code is coming from, and how to update it, which has caused monogatari to become less beginner friendly than it used to be. However, I strongly believe these problems are the result of the lack of proper documentation. Components are in fact simple to use and work with, it just needs a mind shift and a proper explanation.
 
 ## Changing the contents of a component
 

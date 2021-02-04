@@ -68,7 +68,7 @@ monogatari.script ({
 
 Notice that `Start` string. By default, `Start` is the first label that Monogatari will play when a game starts. As you can see, this label is pointing to a list of statements that monogatari will run one by one.
 
-In programming terms, a label is 
+In programming terms, a label is a sequence of characters that identifies a location within source code.
 
 As we said before, labels are just like the chapters of a book but can also provide you with logical ways of dividing your game. 
 

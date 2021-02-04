@@ -289,7 +289,7 @@ With components being self-contained, you can share it using just two files: a J
 
 ### The problems it created
 
-This change has brought some confusion to people who expect all the HTML to be there for them to edit. It now results confusing where the code is coming from and how to update it which has caused monogatari not to be as beginner friendly as it used to be. However, I strongly believe these problems are the result of the lack of proper documentation. Components are in fact simple to use and work with, it just needs a mind shift and a proper explanation.
+This change has brought some confusion to people who expect all the HTML to be there for them to edit. It now results confusing where the code is coming from and how to update it which has caused monogatari not to be as beginner friendly as it used to be. However, I strongly believe these problems are the result of the lack of proper documentation. Components are in fact simple to use and to work with, it just needs a mind shift and a proper explanation.
 
 ## Changing the contents of a component
 
@@ -354,7 +354,7 @@ If you wanted to change a component, for example the game-screen element monogat
 
 To modify the structure of any component, we first need to know what it looks like by default. To do so, we need to dive into the code of the component we want to change, you'll find all component's in the [monogatari source code repository](https://github.com/Monogatari/Monogatari/tree/develop/src/components). 
 
-Inside the `index.js` file of every component, you'll find the class that defines it and most importantly, its render method. Let's take a look at the `game-screen` component it's render method looks something like this \(It may have changed since the writing of this documentation\):
+Inside the `index.js` file of every component, you'll find the class that defines it and most importantly, its render method. Let's take a look at the `game-screen` component its render method looks something like this \(It may have changed since the writing of this documentation\):
 
 ```javascript
 render () {

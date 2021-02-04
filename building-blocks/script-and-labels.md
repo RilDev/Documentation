@@ -34,7 +34,7 @@ In Monogatari's case, your script is a list of keys \(the names of the [labels](
 }
 ```
 
-Now, while that object does defines a monogatari script, just by itself it doesn't do anything. **You must use the script function to let monogatari know what's your script**:
+Now, while that object does define a monogatari script, just by itself it doesn't do anything. **You must use the script function to let monogatari know what's your script**:
 
 ```javascript
 monogatari.script ({
